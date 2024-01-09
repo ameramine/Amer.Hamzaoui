@@ -1,3 +1,8 @@
+// Ce programme simule le jeu de papier-caillou-ciseaux. Le joueur peut jouer contre l'ordinateur ou bien avec un ami
+// realise par Hamzaoui mehdi et Amer Mohammed Amine 
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
